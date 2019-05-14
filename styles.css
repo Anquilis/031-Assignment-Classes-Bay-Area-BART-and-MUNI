@@ -1,0 +1,88 @@
+.red {
+    color: red;
+}
+
+.orange {
+    color: orange;
+}
+.yellow {
+    color: yellow;
+}
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+}
+.orange2{
+    border: solid black 2px;
+    border-radius: 100px;
+    background-color: #FBA634;
+    color: white;
+}
+.lightblue{
+    border: solid black 2px;
+    border-radius: 100px;
+    background-color: #559EBC;
+    color: white;
+}
+.purple{
+    border: solid black 2px;
+    border-radius: 100px;
+    background-color: #94268C;
+    color: white;
+}
+.green2{
+    border: solid black 2px;
+    border-radius: 100px;
+    background-color: #048654;
+    color: white;
+}
+.blue2{
+    border: solid black 2px;
+    border-radius: 100px;
+    background-color: #04539C;
+    color: white;
+}
+.red2{
+    border: solid black 2px;
+    border-radius: 100px;
+    background-color: #D41244;
+    color: white;
+}
+.MUNI {
+    text-align: center;
+    width: 19px;
+}
+
+
+
+
+
+
+
+/****** DO NOT CHANGE THE STYLES BELOW THIS ******/
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+li {
+    margin: 0;
+    display: block;
+    font-size: 1em;
+    padding: 0.25em;
+    font-weight: 700;
+}
+.muni li {
+    display: inline-block;
+}
